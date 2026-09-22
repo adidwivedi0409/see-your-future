@@ -88,21 +88,6 @@ Default. Works with no backend and no keys: the frontend bundles the Sam Patel p
 
 Set `DEMO_MODE=false` and fill the keys in `.env`. Any integration that fails to import or authenticate falls back to its demo implementation independently, so the app never hard-fails.
 
-## Five-minute demo script
-
-1. "Most AI assistants tell you what happened. Ours lets you explore what could happen next."
-2. Show Sam Patel's week: 10 events, 3 deadlines, an interview, a hackathon tonight.
-3. Open the Personal Brain: six evidence-backed attributes, each linked to its source.
-4. Point at the overload warnings: "3 deadlines and an interview fall within 5 days."
-5. Open the Future Map: five decisions branching into outcomes, opportunities and risks.
-6. Hover a Scenario likelihood: explain it is an estimate from commitments, preferences, opportunities and shown assumptions, not a prediction.
-7. Click "Prepare for the technical interview" and add 3 hours.
-8. Watch "Interview readiness improves" go 54 -> ~72, "Coursework stability" 81 -> ~77, schedule pressure Medium -> High.
-9. Open the explanation: which factors moved and by how much.
-10. Mark an assumption incorrect and show the map re-score.
-11. Generate the plan: three next actions, calendar blocks, one risk, one opportunity, with confirmation required.
-12. Close: "Your future is not predicted. It is shaped." / "See Your Future. Change Your Future."
-
 ## Scoring formula
 
 `score = clamp(round(100 * Σ weight_i · value_i), 0, 100)` with values in 0..1.
