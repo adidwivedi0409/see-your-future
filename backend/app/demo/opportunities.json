@@ -1,0 +1,192 @@
+[
+  {
+    "id": "opp_calhacks",
+    "title": "Cal Hacks 13.0",
+    "type": "hackathon",
+    "organization": "Cal Hacks",
+    "description": "Largest collegiate hackathon, $100K prizes, 2,000+ hackers. Regular apps closed Sep 20; Hack Month team-formation socials Oct 2, 9, 16.",
+    "location": "Palace of Fine Arts, SF",
+    "start_date": "2026-10-23",
+    "deadline": "2026-09-20",
+    "url": "https://www.calhacks.io/",
+    "relevance_score": 86,
+    "relevance_reasons": [
+      "Matches agent-evaluation strength",
+      "Ship the personal-brain agent further",
+      "Free bus from BART"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_chai",
+    "title": "CHAI Research Internship (Summer 2027) ❓",
+    "type": "research",
+    "organization": "Center for Human-Compatible AI, UC Berkeley",
+    "description": "Paid AI-safety research internship, undergrads eligible. Apps expected ~Oct-Nov 2026 (❓ date not yet posted, per tracker).",
+    "location": "Berkeley, CA",
+    "start_date": "2027-06-01",
+    "deadline": "2026-11-01",
+    "url": "https://humancompatible.ai",
+    "relevance_score": 94,
+    "relevance_reasons": [
+      "Directly matches interpretability & AI-safety interest",
+      "Supports goal: join a Berkeley lab as a first-year",
+      "No grad-year gate; on campus"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_step",
+    "title": "Google STEP Internship Summer 2027",
+    "type": "internship",
+    "organization": "Google",
+    "description": "First/second-year SWE internship. Tracker: BS early window closed Jul 24; fall cycle reopens — WATCH.",
+    "location": "Mountain View, CA",
+    "start_date": "2027-06-01",
+    "deadline": "2026-10-15",
+    "url": "https://buildyourfuture.withgoogle.com/programs/step",
+    "relevance_score": 78,
+    "relevance_reasons": [
+      "One of the few programs open to a 2030 grad",
+      "Supports goal: AI/ML internship summer 2027",
+      "Jane Street FTTP already applied — second option"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_treehacks",
+    "title": "TreeHacks 2027",
+    "type": "hackathon",
+    "organization": "Stanford",
+    "description": "Feb 12-14, 2027; applications open ~Sep 19; flights/food/lodging covered for any enrolled college student.",
+    "location": "Stanford, CA",
+    "start_date": "2027-02-12",
+    "deadline": "2026-11-15",
+    "url": "https://www.treehacks.com",
+    "relevance_score": 80,
+    "relevance_reasons": [
+      "Apply early per tracker",
+      "Builds on tonight's agent project",
+      "Team from o_collaborator"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_techweek",
+    "title": "SF Tech Week (a16z), Oct 5-11",
+    "type": "event",
+    "organization": "a16z",
+    "description": "Hackathons & Demos track incl. Hack Alcatraz (Cloudflare) and AI Heist Challenge (Modal x LangChain, Tue Oct 6). Popular events fill 1-2 weeks out.",
+    "location": "San Francisco, CA",
+    "start_date": "2026-10-05",
+    "deadline": "2026-09-28",
+    "url": "https://www.tech-week.com/calendar/sf",
+    "relevance_score": 72,
+    "relevance_reasons": [
+      "Overlaps 145-company startup outreach list",
+      "Same week as CS 61A Midterm 1 — limit to 1-2 events",
+      "Apply per event"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_simons",
+    "title": "Simons Institute: Trustworthy AI workshop",
+    "type": "event",
+    "organization": "Simons Institute, UC Berkeley",
+    "description": "Oct 5-9, Calvin Lab, on campus, free, first-come seats. Hallucinations & reliable autonomy.",
+    "location": "Berkeley, CA",
+    "start_date": "2026-10-05",
+    "deadline": "2026-10-04",
+    "url": "https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy",
+    "relevance_score": 84,
+    "relevance_reasons": [
+      "Matches interpretability/safety interest",
+      "Where Berkeley research targets will be",
+      "Collides with Midterm 1 week"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_goodfire",
+    "title": "Goodfire (interpretability lab) happy hour",
+    "type": "event",
+    "organization": "Goodfire",
+    "description": "Wed Oct 7, 7-10 PM, SF. Interp networking; Luma approval.",
+    "location": "San Francisco, CA",
+    "start_date": "2026-10-07",
+    "deadline": "2026-10-05",
+    "url": "https://luma.com",
+    "relevance_score": 82,
+    "relevance_reasons": [
+      "Tier-1 interp company on startup list",
+      "NeurIPS sycophancy paper is the hook",
+      "Evening after Midterm 1"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_neurips",
+    "title": "NeurIPS 2026",
+    "type": "event",
+    "organization": "NeurIPS Foundation",
+    "description": "Premier ML conference with interpretability workshops; Aditya is a 2025 CogInterp/ReliableML workshop co-author.",
+    "location": "San Diego, CA",
+    "start_date": "2026-12-06",
+    "deadline": null,
+    "url": "https://neurips.cc",
+    "relevance_score": 66,
+    "relevance_reasons": [
+      "Prior workshop paper",
+      "Requires travel funding",
+      "After finals"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_anthropic_fellowship",
+    "title": "Anthropic AI Safety Fellowship",
+    "type": "research",
+    "organization": "Anthropic",
+    "description": "Mentored alignment research fellowship; sycophancy and interpretability topics. Listed as a standing source in internship tracker.",
+    "location": "Remote / Bay Area",
+    "start_date": "2027-01-10",
+    "deadline": "2026-10-30",
+    "url": "https://alignment.anthropic.com",
+    "relevance_score": 76,
+    "relevance_reasons": [
+      "Matches sycophancy work",
+      "No class-year gate",
+      "Competitive; ProxyClaw evals help"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  },
+  {
+    "id": "opp_mlab_info",
+    "title": "Berkeley club recruiting: XR@Berkeley / late-window clubs",
+    "type": "event",
+    "organization": "Berkeley RSOs",
+    "description": "Fall recruiting wall was Sep 3-15; XR@Berkeley (~Sep 21) is the last open window. ML@B, BASIS and Traders reopen in spring.",
+    "location": "Berkeley, CA",
+    "start_date": "2026-09-21",
+    "deadline": "2026-09-21",
+    "url": "https://berkeleygoggles.org/",
+    "relevance_score": 60,
+    "relevance_reasons": [
+      "Club campaign already tracked daily",
+      "Most target clubs closed; low remaining effort",
+      "BASIS is a warmer research channel"
+    ],
+    "source": "Bright Data (demo cache — from Aditya's trackers)",
+    "is_demo": true
+  }
+]

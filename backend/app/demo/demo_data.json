@@ -1,0 +1,2537 @@
+{
+  "persona": "Aditya Dwivedi",
+  "today": "2026-09-21",
+  "profile": {
+    "user_id": "aditya",
+    "summary": "Aditya Dwivedi is a first-year CS student at UC Berkeley (CDSS, class of 2030) doing LLM interpretability and agent-evaluation work. This week: the Battle of the Personal Brains hackathon tonight, a Linear Algebra problem set and Renaissance reading, a research cold-email batch, four parallel outreach campaigns, and CS 61A Midterm 1 in about two weeks. Commitments total about 42 hours.",
+    "weekly_commitment_hours": 42,
+    "time_allocation": [
+      {
+        "category": "Classes",
+        "hours": 11
+      },
+      {
+        "category": "Assignments",
+        "hours": 10
+      },
+      {
+        "category": "Midterm prep",
+        "hours": 0
+      },
+      {
+        "category": "Hackathon",
+        "hours": 5
+      },
+      {
+        "category": "Outreach campaigns",
+        "hours": 7
+      },
+      {
+        "category": "Research reading",
+        "hours": 3
+      },
+      {
+        "category": "Personal",
+        "hours": 6
+      }
+    ],
+    "upcoming_deadlines": [
+      {
+        "id": "ev_xr_app",
+        "title": "XR@Berkeley application (latest club deadline, ~Sep 21)",
+        "start": "2026-09-21T23:59:00",
+        "end": "2026-09-21T23:59:00",
+        "kind": "deadline",
+        "location": null,
+        "source_id": "src_clubs"
+      },
+      {
+        "id": "ev_tc_volunteer",
+        "title": "TechCrunch Disrupt volunteer application due",
+        "start": "2026-09-22T23:59:00",
+        "end": "2026-09-22T23:59:00",
+        "kind": "deadline",
+        "location": null,
+        "source_id": "src_events"
+      },
+      {
+        "id": "ev_hw3",
+        "title": "Italian Renaissance reading due (Cox ch.1-2)",
+        "start": "2026-09-24T12:00:00",
+        "end": "2026-09-24T12:00:00",
+        "kind": "deadline",
+        "location": null,
+        "source_id": "src_course_files"
+      },
+      {
+        "id": "ev_bcs_reg",
+        "title": "BCS AI + Recruiting Summit free-registration cutoff",
+        "start": "2026-09-25T23:59:00",
+        "end": "2026-09-25T23:59:00",
+        "kind": "deadline",
+        "location": null,
+        "source_id": "src_events"
+      },
+      {
+        "id": "ev_hw2",
+        "title": "Linear Algebra HW2 due (assumed Fri 23:59)",
+        "start": "2026-09-25T23:59:00",
+        "end": "2026-09-25T23:59:00",
+        "kind": "deadline",
+        "location": null,
+        "source_id": "src_course_files"
+      },
+      {
+        "id": "ev_mlab_app",
+        "title": "EA Global NYC application deadline (students free)",
+        "start": "2026-09-27T23:59:00",
+        "end": "2026-09-27T23:59:00",
+        "kind": "deadline",
+        "location": null,
+        "source_id": "src_events"
+      },
+      {
+        "id": "ev_mt1",
+        "title": "CS 61A Midterm 1 (assumed: first week of October — verify on course calendar)",
+        "start": "2026-10-05T19:00:00",
+        "end": "2026-10-05T21:00:00",
+        "kind": "deadline",
+        "location": "Campus",
+        "source_id": "src_61a_guide"
+      }
+    ],
+    "attributes": [
+      {
+        "id": "attr_ai_interest",
+        "kind": "strength",
+        "label": "Agent evaluation experience",
+        "confidence": 0.88,
+        "evidence_ids": [
+          "e_agent_notes",
+          "e_hackathon",
+          "e_goal_project"
+        ],
+        "source_ids": [
+          "src_resume",
+          "src_sf_hacks"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_overlap",
+        "kind": "habit",
+        "label": "Runs several parallel outreach campaigns",
+        "confidence": 0.9,
+        "evidence_ids": [
+          "e_late_nights",
+          "e_overcommitted",
+          "e_research_targets"
+        ],
+        "source_ids": [
+          "src_scheduled",
+          "src_startups",
+          "src_research"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_midweek",
+        "kind": "constraint",
+        "label": "Graduation year 2030 disqualifies many 2027 internship postings",
+        "confidence": 0.95,
+        "evidence_ids": [
+          "e_grad_year",
+          "e_goal_internship"
+        ],
+        "source_ids": [
+          "src_internships"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_interview_prep",
+        "kind": "growth",
+        "label": "Limited evidence of protected deep-work blocks for coursework",
+        "confidence": 0.7,
+        "evidence_ids": [
+          "e_prep_zero",
+          "e_hackathon_before_hw3",
+          "e_midweek"
+        ],
+        "source_ids": [
+          "src_61a_guide",
+          "src_events"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_interp",
+        "kind": "interest",
+        "label": "LLM interpretability & AI safety research",
+        "confidence": 0.92,
+        "evidence_ids": [
+          "e_interp",
+          "e_research_targets",
+          "e_interp_reading"
+        ],
+        "source_ids": [
+          "src_resume",
+          "src_research",
+          "src_course_files"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_internship",
+        "kind": "goal",
+        "label": "AI/ML internship summer 2027 (Jane Street FTTP already applied)",
+        "confidence": 0.9,
+        "evidence_ids": [
+          "e_goal_internship"
+        ],
+        "source_ids": [
+          "src_internships",
+          "src_memory"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_lab_goal",
+        "kind": "goal",
+        "label": "Join a Berkeley AI-safety/interp lab as a first-year",
+        "confidence": 0.88,
+        "evidence_ids": [
+          "e_research_targets",
+          "e_interp"
+        ],
+        "source_ids": [
+          "src_research",
+          "src_memory"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      },
+      {
+        "id": "attr_reading",
+        "kind": "commitment",
+        "label": "Daily productivity + learning reading (2 articles/day)",
+        "confidence": 0.8,
+        "evidence_ids": [
+          "e_reading_habit"
+        ],
+        "source_ids": [
+          "src_reading"
+        ],
+        "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+      }
+    ],
+    "evidence": [
+      {
+        "id": "e_hackathon",
+        "text": "Battle of the Personal Brains hackathon tonight, Mon Sep 21 16:00-21:00, Bright Data Web Data Loft, 625 2nd St SF (cognee / AWS Strands / Docker)",
+        "source_id": "src_sf_hacks",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "e_agent_notes",
+        "text": "ProxyClaw AI research intern since July 2026: agent usage-log analysis, LLM-as-a-judge and safety evals",
+        "source_id": "src_resume",
+        "date": "2026-07-01"
+      },
+      {
+        "id": "e_cs_courses",
+        "text": "Current coursework evidenced by files: CS 61A (MT1 study guide + 12 past exams), Linear Algebra HW2, Italian Renaissance (Cox ch.1-2)",
+        "source_id": "src_course_files",
+        "date": "2026-09-20"
+      },
+      {
+        "id": "e_hackathon_before_hw3",
+        "text": "Hackathon ends 21:00 Monday; Linear HW2 and the Renaissance reading are both due this week",
+        "source_id": "src_events",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "e_late_nights",
+        "text": "Four campaigns run in parallel: internships (daily 8:00), clubs (daily 8:15), 145-company startup list, 20-person research outreach",
+        "source_id": "src_scheduled",
+        "date": "2026-09-11"
+      },
+      {
+        "id": "e_three_deadlines",
+        "text": "This week: Linear HW2, Renaissance reading, research cold-email batch, TechCrunch volunteer app (Sep 22), BCS Summit free-registration cutoff (Sep 25)",
+        "source_id": "src_events",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "e_midweek",
+        "text": "Renaissance reading due Thu; Linear HW2 due Fri 23:59 (assumed); CS 61A MT1 in ~2 weeks",
+        "source_id": "src_course_files",
+        "date": "2026-09-25"
+      },
+      {
+        "id": "e_prep_zero",
+        "text": "CS 61A MT1 study guide and past exams downloaded; no study blocks on the calendar yet",
+        "source_id": "src_61a_guide",
+        "date": "2026-09-20"
+      },
+      {
+        "id": "e_interp",
+        "text": "NeurIPS CogInterp + ReliableML workshop co-author: SAEs and linear probes on Gemma 2B/9B; gradient-masked finetuning to reduce sycophancy",
+        "source_id": "src_resume",
+        "date": "2025-08-01"
+      },
+      {
+        "id": "e_goal_internship",
+        "text": "Goal: AI/ML internship summer 2027; Jane Street FTTP already applied; grad year 2030 gates most postings",
+        "source_id": "src_internships",
+        "date": "2026-08-24"
+      },
+      {
+        "id": "e_goal_project",
+        "text": "Personal-brain agent is tonight's hackathon project; SprinklSmart shipped to 100+ users",
+        "source_id": "src_resume",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "e_goal_gpa",
+        "text": "First semester at Berkeley (CDSS, class of 2030); 4.0 GPA in high school",
+        "source_id": "src_resume",
+        "date": "2026-08-26"
+      },
+      {
+        "id": "e_overcommitted",
+        "text": "Startup outreach list: 145 companies, Tier 1 = 30 agent-eval / interp companies",
+        "source_id": "src_startups",
+        "date": "2026-08-26"
+      },
+      {
+        "id": "e_research_targets",
+        "text": "Berkeley research outreach: 20 PhD/postdoc targets, top matches in feature fields, RLHF, HypotheSAEs, ICL heads",
+        "source_id": "src_research",
+        "date": "2026-09-11"
+      },
+      {
+        "id": "e_reading_habit",
+        "text": "Two curated articles (productivity + learning) every morning at 8 AM since Aug 5, 2026",
+        "source_id": "src_reading",
+        "date": "2026-09-21"
+      },
+      {
+        "id": "e_grad_year",
+        "text": "Discover Citadel, SIG, HRT Explore, Databricks: NOT ELIGIBLE as posted (grad-year 2027-2029 windows)",
+        "source_id": "src_internships",
+        "date": "2026-08-24"
+      },
+      {
+        "id": "e_interp_reading",
+        "text": "Reading yocum-2025-feature-fields.pdf, 2404.02258 and Neural Manifold Geometry alongside coursework",
+        "source_id": "src_course_files",
+        "date": "2026-09-20"
+      },
+      {
+        "id": "e_spc",
+        "text": "SPC fireside \"-1 to Waymo\" (Dmitri Dolgov) also tonight in SF, Luma approval",
+        "source_id": "src_events",
+        "date": "2026-09-21"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_events",
+        "name": "events/README.md (Bay Area events tracker)",
+        "type": "note",
+        "date": "2026-09-16",
+        "excerpt": "Mon 9/21 SF SPC fireside \"-1 to Waymo\" (Dmitri Dolgov) · Battle of the Personal Brains hack, 4 PM Talk/hack ✅",
+        "record_id": "events_readme"
+      },
+      {
+        "id": "src_sf_hacks",
+        "name": "events/research/03-sf-hackathons.md",
+        "type": "note",
+        "date": "2026-09-16",
+        "excerpt": "Battle of the Personal Brains Hackathon Mon Sep 21, 4–9pm Bright Data Web Data Loft, 625 2nd St Free; open; 418 spots Now $1,000 prizes + $100 credits each; cognee/AWS Strands/Docker https://luma.com/",
+        "record_id": "events_sf_hackathons"
+      },
+      {
+        "id": "src_internships",
+        "name": "internships/README.md + log.md (internship tracker)",
+        "type": "note",
+        "date": "2026-09-21",
+        "excerpt": "- Eligibility rule: graduation year 2030. Most \"Summer 2027\" SWE postings gate on",
+        "record_id": "internship_tracker"
+      },
+      {
+        "id": "src_clubs",
+        "name": "clubs/README.md + log.md (club tracker)",
+        "type": "note",
+        "date": "2026-09-21",
+        "excerpt": "Aditya (incoming Berkeley CS, class of 2030) is running a first-year club application blitz.",
+        "record_id": "club_tracker"
+      },
+      {
+        "id": "src_startups",
+        "name": "startups/README.md (SF startup outreach list)",
+        "type": "note",
+        "date": "2026-08-26",
+        "excerpt": "145 companies (SkyDeck + YC), tiered; Tier 1 bullseye = 30 agent-eval / AI-safety / interpretability companies.",
+        "record_id": "startups_outreach_list"
+      },
+      {
+        "id": "src_research",
+        "name": "research/berkeley-phd-targets.md (research outreach)",
+        "type": "note",
+        "date": "2026-09-11",
+        "excerpt": "12 Berkeley AI-safety / interpretability PhD students and postdocs, tiered (interp-first; safety/alignment; CHAI postdocs).",
+        "record_id": "berkeley_research_targets"
+      },
+      {
+        "id": "src_reading",
+        "name": "productivity/reading-list.md",
+        "type": "note",
+        "date": "2026-09-21",
+        "excerpt": "- [reading-list.md](reading-list.md) — all readings, organized by category. Two new articles land here every morning at 8 AM (one productivity article matched to a specific bottleneck, one on learning",
+        "record_id": "productivity_reading_list"
+      },
+      {
+        "id": "src_resume",
+        "name": "adidwivedi_resume1.pdf",
+        "type": "document",
+        "date": "2026-09-01",
+        "excerpt": "sycophantic behavior in large language models",
+        "record_id": "resume_pdf"
+      },
+      {
+        "id": "src_61a_guide",
+        "name": "61a-mt1-study-guide.pdf",
+        "type": "document",
+        "date": "2026-09-20",
+        "excerpt": "CS 61A Midterm 1 Study Guide – Page 1",
+        "record_id": "cs61a_mt1_guide"
+      },
+      {
+        "id": "src_course_files",
+        "name": "Downloads: Linear HW2.pdf, Cox Italian Renaissance Ch.1-2.pdf, yocum-2025-feature-fields.pdf",
+        "type": "document",
+        "date": "2026-09-20",
+        "excerpt": "Linear HW2.pdf; Cox Italian Renaissance Chapters 1 & 2.pdf; yocum-2025-feature-fields.pdf; 2404.02258v1.pdf; Neural Manifold Geometry.pdf",
+        "record_id": "downloads_course_files"
+      },
+      {
+        "id": "src_memory",
+        "name": "Claude memory notes (projects)",
+        "type": "note",
+        "date": "2026-09-11",
+        "excerpt": "interpretability, and is cold-emailing PhD students to get in a lab as a freshman.",
+        "record_id": "memory_projects"
+      },
+      {
+        "id": "src_scheduled",
+        "name": "Scheduled tasks (daily-internship-finder, daily-berkeley-clubs, daily-productivity-articles)",
+        "type": "note",
+        "date": "2026-08-24",
+        "excerpt": "daily-internship-finder 8:00am; daily-berkeley-clubs 8:15am; daily-productivity-articles 8:00am.",
+        "record_id": "scheduled_tasks"
+      }
+    ],
+    "overload_warnings": [
+      "Hackathon tonight until 21:00 plus four active outreach/application campaigns and CS 61A Midterm 1 in ~2 weeks",
+      "Linear algebra HW2 and Italian Renaissance reading due the same week"
+    ],
+    "brain_mode": "demo"
+  },
+  "calendar": [
+    {
+      "id": "ev_tracker_mon",
+      "title": "Daily internship tracker (8:00) + club tracker (8:15)",
+      "start": "2026-09-21T08:00:00",
+      "end": "2026-09-21T08:30:00",
+      "kind": "personal",
+      "location": "Scheduled tasks",
+      "source_id": "src_scheduled"
+    },
+    {
+      "id": "ev_cs61a_mon",
+      "title": "CS 61A Lecture (assumed MWF 10-11)",
+      "start": "2026-09-21T10:00:00",
+      "end": "2026-09-21T11:00:00",
+      "kind": "class",
+      "location": "Campus",
+      "source_id": "src_61a_guide"
+    },
+    {
+      "id": "ev_hackathon",
+      "title": "Battle of the Personal Brains AI-agent hackathon",
+      "start": "2026-09-21T16:00:00",
+      "end": "2026-09-21T21:00:00",
+      "kind": "event",
+      "location": "Bright Data Web Data Loft, 625 2nd St, SF",
+      "source_id": "src_sf_hacks"
+    },
+    {
+      "id": "ev_spc",
+      "title": "SPC fireside: -1 to Waymo (Dmitri Dolgov) — conflicts with hackathon",
+      "start": "2026-09-21T18:00:00",
+      "end": "2026-09-21T19:30:00",
+      "kind": "event",
+      "location": "South Park Commons, SF",
+      "source_id": "src_events"
+    },
+    {
+      "id": "ev_xr_app",
+      "title": "XR@Berkeley application (latest club deadline, ~Sep 21)",
+      "start": "2026-09-21T23:59:00",
+      "end": "2026-09-21T23:59:00",
+      "kind": "deadline",
+      "location": null,
+      "source_id": "src_clubs"
+    },
+    {
+      "id": "ev_reading_tue",
+      "title": "Daily reading: 2 articles (productivity + learning)",
+      "start": "2026-09-22T08:00:00",
+      "end": "2026-09-22T08:45:00",
+      "kind": "personal",
+      "location": null,
+      "source_id": "src_reading"
+    },
+    {
+      "id": "ev_ai_risk_talk",
+      "title": "AI Risk Speaker Series: John Sherman",
+      "start": "2026-09-22T16:00:00",
+      "end": "2026-09-22T17:00:00",
+      "kind": "event",
+      "location": "621 Soda-Dai",
+      "source_id": "src_events"
+    },
+    {
+      "id": "ev_tc_volunteer",
+      "title": "TechCrunch Disrupt volunteer application due",
+      "start": "2026-09-22T23:59:00",
+      "end": "2026-09-22T23:59:00",
+      "kind": "deadline",
+      "location": null,
+      "source_id": "src_events"
+    },
+    {
+      "id": "ev_cs61a_wed",
+      "title": "CS 61A Lecture (assumed MWF 10-11)",
+      "start": "2026-09-23T10:00:00",
+      "end": "2026-09-23T11:00:00",
+      "kind": "class",
+      "location": "Campus",
+      "source_id": "src_61a_guide"
+    },
+    {
+      "id": "ev_hw3",
+      "title": "Italian Renaissance reading due (Cox ch.1-2)",
+      "start": "2026-09-24T12:00:00",
+      "end": "2026-09-24T12:00:00",
+      "kind": "deadline",
+      "location": null,
+      "source_id": "src_course_files"
+    },
+    {
+      "id": "ev_interview",
+      "title": "Research cold-email batch (Berkeley interp/safety PhD targets)",
+      "start": "2026-09-24T16:00:00",
+      "end": "2026-09-24T18:00:00",
+      "kind": "event",
+      "location": "Home",
+      "source_id": "src_research"
+    },
+    {
+      "id": "ev_cs61a_fri",
+      "title": "CS 61A Lecture (assumed MWF 10-11)",
+      "start": "2026-09-25T10:00:00",
+      "end": "2026-09-25T11:00:00",
+      "kind": "class",
+      "location": "Campus",
+      "source_id": "src_61a_guide"
+    },
+    {
+      "id": "ev_bcs_reg",
+      "title": "BCS AI + Recruiting Summit free-registration cutoff",
+      "start": "2026-09-25T23:59:00",
+      "end": "2026-09-25T23:59:00",
+      "kind": "deadline",
+      "location": null,
+      "source_id": "src_events"
+    },
+    {
+      "id": "ev_hw2",
+      "title": "Linear Algebra HW2 due (assumed Fri 23:59)",
+      "start": "2026-09-25T23:59:00",
+      "end": "2026-09-25T23:59:00",
+      "kind": "deadline",
+      "location": null,
+      "source_id": "src_course_files"
+    },
+    {
+      "id": "ev_mlab_app",
+      "title": "EA Global NYC application deadline (students free)",
+      "start": "2026-09-27T23:59:00",
+      "end": "2026-09-27T23:59:00",
+      "kind": "deadline",
+      "location": null,
+      "source_id": "src_events"
+    },
+    {
+      "id": "ev_mt1",
+      "title": "CS 61A Midterm 1 (assumed: first week of October — verify on course calendar)",
+      "start": "2026-10-05T19:00:00",
+      "end": "2026-10-05T21:00:00",
+      "kind": "deadline",
+      "location": "Campus",
+      "source_id": "src_61a_guide"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src_events",
+      "name": "events/README.md (Bay Area events tracker)",
+      "type": "note",
+      "date": "2026-09-16",
+      "excerpt": "Mon 9/21 SF SPC fireside \"-1 to Waymo\" (Dmitri Dolgov) · Battle of the Personal Brains hack, 4 PM Talk/hack ✅",
+      "record_id": "events_readme"
+    },
+    {
+      "id": "src_sf_hacks",
+      "name": "events/research/03-sf-hackathons.md",
+      "type": "note",
+      "date": "2026-09-16",
+      "excerpt": "Battle of the Personal Brains Hackathon Mon Sep 21, 4–9pm Bright Data Web Data Loft, 625 2nd St Free; open; 418 spots Now $1,000 prizes + $100 credits each; cognee/AWS Strands/Docker https://luma.com/",
+      "record_id": "events_sf_hackathons"
+    },
+    {
+      "id": "src_internships",
+      "name": "internships/README.md + log.md (internship tracker)",
+      "type": "note",
+      "date": "2026-09-21",
+      "excerpt": "- Eligibility rule: graduation year 2030. Most \"Summer 2027\" SWE postings gate on",
+      "record_id": "internship_tracker"
+    },
+    {
+      "id": "src_clubs",
+      "name": "clubs/README.md + log.md (club tracker)",
+      "type": "note",
+      "date": "2026-09-21",
+      "excerpt": "Aditya (incoming Berkeley CS, class of 2030) is running a first-year club application blitz.",
+      "record_id": "club_tracker"
+    },
+    {
+      "id": "src_startups",
+      "name": "startups/README.md (SF startup outreach list)",
+      "type": "note",
+      "date": "2026-08-26",
+      "excerpt": "145 companies (SkyDeck + YC), tiered; Tier 1 bullseye = 30 agent-eval / AI-safety / interpretability companies.",
+      "record_id": "startups_outreach_list"
+    },
+    {
+      "id": "src_research",
+      "name": "research/berkeley-phd-targets.md (research outreach)",
+      "type": "note",
+      "date": "2026-09-11",
+      "excerpt": "12 Berkeley AI-safety / interpretability PhD students and postdocs, tiered (interp-first; safety/alignment; CHAI postdocs).",
+      "record_id": "berkeley_research_targets"
+    },
+    {
+      "id": "src_reading",
+      "name": "productivity/reading-list.md",
+      "type": "note",
+      "date": "2026-09-21",
+      "excerpt": "- [reading-list.md](reading-list.md) — all readings, organized by category. Two new articles land here every morning at 8 AM (one productivity article matched to a specific bottleneck, one on learning",
+      "record_id": "productivity_reading_list"
+    },
+    {
+      "id": "src_resume",
+      "name": "adidwivedi_resume1.pdf",
+      "type": "document",
+      "date": "2026-09-01",
+      "excerpt": "sycophantic behavior in large language models",
+      "record_id": "resume_pdf"
+    },
+    {
+      "id": "src_61a_guide",
+      "name": "61a-mt1-study-guide.pdf",
+      "type": "document",
+      "date": "2026-09-20",
+      "excerpt": "CS 61A Midterm 1 Study Guide – Page 1",
+      "record_id": "cs61a_mt1_guide"
+    },
+    {
+      "id": "src_course_files",
+      "name": "Downloads: Linear HW2.pdf, Cox Italian Renaissance Ch.1-2.pdf, yocum-2025-feature-fields.pdf",
+      "type": "document",
+      "date": "2026-09-20",
+      "excerpt": "Linear HW2.pdf; Cox Italian Renaissance Chapters 1 & 2.pdf; yocum-2025-feature-fields.pdf; 2404.02258v1.pdf; Neural Manifold Geometry.pdf",
+      "record_id": "downloads_course_files"
+    },
+    {
+      "id": "src_memory",
+      "name": "Claude memory notes (projects)",
+      "type": "note",
+      "date": "2026-09-11",
+      "excerpt": "interpretability, and is cold-emailing PhD students to get in a lab as a freshman.",
+      "record_id": "memory_projects"
+    },
+    {
+      "id": "src_scheduled",
+      "name": "Scheduled tasks (daily-internship-finder, daily-berkeley-clubs, daily-productivity-articles)",
+      "type": "note",
+      "date": "2026-08-24",
+      "excerpt": "daily-internship-finder 8:00am; daily-berkeley-clubs 8:15am; daily-productivity-articles 8:00am.",
+      "record_id": "scheduled_tasks"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "e_hackathon",
+      "text": "Battle of the Personal Brains hackathon tonight, Mon Sep 21 16:00-21:00, Bright Data Web Data Loft, 625 2nd St SF (cognee / AWS Strands / Docker)",
+      "source_id": "src_sf_hacks",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "e_agent_notes",
+      "text": "ProxyClaw AI research intern since July 2026: agent usage-log analysis, LLM-as-a-judge and safety evals",
+      "source_id": "src_resume",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "e_cs_courses",
+      "text": "Current coursework evidenced by files: CS 61A (MT1 study guide + 12 past exams), Linear Algebra HW2, Italian Renaissance (Cox ch.1-2)",
+      "source_id": "src_course_files",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "e_hackathon_before_hw3",
+      "text": "Hackathon ends 21:00 Monday; Linear HW2 and the Renaissance reading are both due this week",
+      "source_id": "src_events",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "e_late_nights",
+      "text": "Four campaigns run in parallel: internships (daily 8:00), clubs (daily 8:15), 145-company startup list, 20-person research outreach",
+      "source_id": "src_scheduled",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "e_three_deadlines",
+      "text": "This week: Linear HW2, Renaissance reading, research cold-email batch, TechCrunch volunteer app (Sep 22), BCS Summit free-registration cutoff (Sep 25)",
+      "source_id": "src_events",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "e_midweek",
+      "text": "Renaissance reading due Thu; Linear HW2 due Fri 23:59 (assumed); CS 61A MT1 in ~2 weeks",
+      "source_id": "src_course_files",
+      "date": "2026-09-25"
+    },
+    {
+      "id": "e_prep_zero",
+      "text": "CS 61A MT1 study guide and past exams downloaded; no study blocks on the calendar yet",
+      "source_id": "src_61a_guide",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "e_interp",
+      "text": "NeurIPS CogInterp + ReliableML workshop co-author: SAEs and linear probes on Gemma 2B/9B; gradient-masked finetuning to reduce sycophancy",
+      "source_id": "src_resume",
+      "date": "2025-08-01"
+    },
+    {
+      "id": "e_goal_internship",
+      "text": "Goal: AI/ML internship summer 2027; Jane Street FTTP already applied; grad year 2030 gates most postings",
+      "source_id": "src_internships",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "e_goal_project",
+      "text": "Personal-brain agent is tonight's hackathon project; SprinklSmart shipped to 100+ users",
+      "source_id": "src_resume",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "e_goal_gpa",
+      "text": "First semester at Berkeley (CDSS, class of 2030); 4.0 GPA in high school",
+      "source_id": "src_resume",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "e_overcommitted",
+      "text": "Startup outreach list: 145 companies, Tier 1 = 30 agent-eval / interp companies",
+      "source_id": "src_startups",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "e_research_targets",
+      "text": "Berkeley research outreach: 20 PhD/postdoc targets, top matches in feature fields, RLHF, HypotheSAEs, ICL heads",
+      "source_id": "src_research",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "e_reading_habit",
+      "text": "Two curated articles (productivity + learning) every morning at 8 AM since Aug 5, 2026",
+      "source_id": "src_reading",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "e_grad_year",
+      "text": "Discover Citadel, SIG, HRT Explore, Databricks: NOT ELIGIBLE as posted (grad-year 2027-2029 windows)",
+      "source_id": "src_internships",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "e_interp_reading",
+      "text": "Reading yocum-2025-feature-fields.pdf, 2404.02258 and Neural Manifold Geometry alongside coursework",
+      "source_id": "src_course_files",
+      "date": "2026-09-20"
+    },
+    {
+      "id": "e_spc",
+      "text": "SPC fireside \"-1 to Waymo\" (Dmitri Dolgov) also tonight in SF, Luma approval",
+      "source_id": "src_events",
+      "date": "2026-09-21"
+    }
+  ],
+  "attributes": [
+    {
+      "id": "attr_ai_interest",
+      "kind": "strength",
+      "label": "Agent evaluation experience",
+      "confidence": 0.88,
+      "evidence_ids": [
+        "e_agent_notes",
+        "e_hackathon",
+        "e_goal_project"
+      ],
+      "source_ids": [
+        "src_resume",
+        "src_sf_hacks"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_overlap",
+      "kind": "habit",
+      "label": "Runs several parallel outreach campaigns",
+      "confidence": 0.9,
+      "evidence_ids": [
+        "e_late_nights",
+        "e_overcommitted",
+        "e_research_targets"
+      ],
+      "source_ids": [
+        "src_scheduled",
+        "src_startups",
+        "src_research"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_midweek",
+      "kind": "constraint",
+      "label": "Graduation year 2030 disqualifies many 2027 internship postings",
+      "confidence": 0.95,
+      "evidence_ids": [
+        "e_grad_year",
+        "e_goal_internship"
+      ],
+      "source_ids": [
+        "src_internships"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_interview_prep",
+      "kind": "growth",
+      "label": "Limited evidence of protected deep-work blocks for coursework",
+      "confidence": 0.7,
+      "evidence_ids": [
+        "e_prep_zero",
+        "e_hackathon_before_hw3",
+        "e_midweek"
+      ],
+      "source_ids": [
+        "src_61a_guide",
+        "src_events"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_interp",
+      "kind": "interest",
+      "label": "LLM interpretability & AI safety research",
+      "confidence": 0.92,
+      "evidence_ids": [
+        "e_interp",
+        "e_research_targets",
+        "e_interp_reading"
+      ],
+      "source_ids": [
+        "src_resume",
+        "src_research",
+        "src_course_files"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_internship",
+      "kind": "goal",
+      "label": "AI/ML internship summer 2027 (Jane Street FTTP already applied)",
+      "confidence": 0.9,
+      "evidence_ids": [
+        "e_goal_internship"
+      ],
+      "source_ids": [
+        "src_internships",
+        "src_memory"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_lab_goal",
+      "kind": "goal",
+      "label": "Join a Berkeley AI-safety/interp lab as a first-year",
+      "confidence": 0.88,
+      "evidence_ids": [
+        "e_research_targets",
+        "e_interp"
+      ],
+      "source_ids": [
+        "src_research",
+        "src_memory"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    },
+    {
+      "id": "attr_reading",
+      "kind": "commitment",
+      "label": "Daily productivity + learning reading (2 articles/day)",
+      "confidence": 0.8,
+      "evidence_ids": [
+        "e_reading_habit"
+      ],
+      "source_ids": [
+        "src_reading"
+      ],
+      "disclaimer": "An estimate derived from your current commitments, preferences, available opportunities, and the assumptions shown here. This is not a prediction or guarantee."
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "opp_calhacks",
+      "title": "Cal Hacks 13.0",
+      "type": "hackathon",
+      "organization": "Cal Hacks",
+      "description": "Largest collegiate hackathon, $100K prizes, 2,000+ hackers. Regular apps closed Sep 20; Hack Month team-formation socials Oct 2, 9, 16.",
+      "location": "Palace of Fine Arts, SF",
+      "start_date": "2026-10-23",
+      "deadline": "2026-09-20",
+      "url": "https://www.calhacks.io/",
+      "relevance_score": 86,
+      "relevance_reasons": [
+        "Matches agent-evaluation strength",
+        "Ship the personal-brain agent further",
+        "Free bus from BART"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_chai",
+      "title": "CHAI Research Internship (Summer 2027) ❓",
+      "type": "research",
+      "organization": "Center for Human-Compatible AI, UC Berkeley",
+      "description": "Paid AI-safety research internship, undergrads eligible. Apps expected ~Oct-Nov 2026 (❓ date not yet posted, per tracker).",
+      "location": "Berkeley, CA",
+      "start_date": "2027-06-01",
+      "deadline": "2026-11-01",
+      "url": "https://humancompatible.ai",
+      "relevance_score": 94,
+      "relevance_reasons": [
+        "Directly matches interpretability & AI-safety interest",
+        "Supports goal: join a Berkeley lab as a first-year",
+        "No grad-year gate; on campus"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_step",
+      "title": "Google STEP Internship Summer 2027",
+      "type": "internship",
+      "organization": "Google",
+      "description": "First/second-year SWE internship. Tracker: BS early window closed Jul 24; fall cycle reopens — WATCH.",
+      "location": "Mountain View, CA",
+      "start_date": "2027-06-01",
+      "deadline": "2026-10-15",
+      "url": "https://buildyourfuture.withgoogle.com/programs/step",
+      "relevance_score": 78,
+      "relevance_reasons": [
+        "One of the few programs open to a 2030 grad",
+        "Supports goal: AI/ML internship summer 2027",
+        "Jane Street FTTP already applied — second option"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_treehacks",
+      "title": "TreeHacks 2027",
+      "type": "hackathon",
+      "organization": "Stanford",
+      "description": "Feb 12-14, 2027; applications open ~Sep 19; flights/food/lodging covered for any enrolled college student.",
+      "location": "Stanford, CA",
+      "start_date": "2027-02-12",
+      "deadline": "2026-11-15",
+      "url": "https://www.treehacks.com",
+      "relevance_score": 80,
+      "relevance_reasons": [
+        "Apply early per tracker",
+        "Builds on tonight's agent project",
+        "Team from o_collaborator"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_techweek",
+      "title": "SF Tech Week (a16z), Oct 5-11",
+      "type": "event",
+      "organization": "a16z",
+      "description": "Hackathons & Demos track incl. Hack Alcatraz (Cloudflare) and AI Heist Challenge (Modal x LangChain, Tue Oct 6). Popular events fill 1-2 weeks out.",
+      "location": "San Francisco, CA",
+      "start_date": "2026-10-05",
+      "deadline": "2026-09-28",
+      "url": "https://www.tech-week.com/calendar/sf",
+      "relevance_score": 72,
+      "relevance_reasons": [
+        "Overlaps 145-company startup outreach list",
+        "Same week as CS 61A Midterm 1 — limit to 1-2 events",
+        "Apply per event"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_simons",
+      "title": "Simons Institute: Trustworthy AI workshop",
+      "type": "event",
+      "organization": "Simons Institute, UC Berkeley",
+      "description": "Oct 5-9, Calvin Lab, on campus, free, first-come seats. Hallucinations & reliable autonomy.",
+      "location": "Berkeley, CA",
+      "start_date": "2026-10-05",
+      "deadline": "2026-10-04",
+      "url": "https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy",
+      "relevance_score": 84,
+      "relevance_reasons": [
+        "Matches interpretability/safety interest",
+        "Where Berkeley research targets will be",
+        "Collides with Midterm 1 week"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_goodfire",
+      "title": "Goodfire (interpretability lab) happy hour",
+      "type": "event",
+      "organization": "Goodfire",
+      "description": "Wed Oct 7, 7-10 PM, SF. Interp networking; Luma approval.",
+      "location": "San Francisco, CA",
+      "start_date": "2026-10-07",
+      "deadline": "2026-10-05",
+      "url": "https://luma.com",
+      "relevance_score": 82,
+      "relevance_reasons": [
+        "Tier-1 interp company on startup list",
+        "NeurIPS sycophancy paper is the hook",
+        "Evening after Midterm 1"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_neurips",
+      "title": "NeurIPS 2026",
+      "type": "event",
+      "organization": "NeurIPS Foundation",
+      "description": "Premier ML conference with interpretability workshops; Aditya is a 2025 CogInterp/ReliableML workshop co-author.",
+      "location": "San Diego, CA",
+      "start_date": "2026-12-06",
+      "deadline": null,
+      "url": "https://neurips.cc",
+      "relevance_score": 66,
+      "relevance_reasons": [
+        "Prior workshop paper",
+        "Requires travel funding",
+        "After finals"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_anthropic_fellowship",
+      "title": "Anthropic AI Safety Fellowship",
+      "type": "research",
+      "organization": "Anthropic",
+      "description": "Mentored alignment research fellowship; sycophancy and interpretability topics. Listed as a standing source in internship tracker.",
+      "location": "Remote / Bay Area",
+      "start_date": "2027-01-10",
+      "deadline": "2026-10-30",
+      "url": "https://alignment.anthropic.com",
+      "relevance_score": 76,
+      "relevance_reasons": [
+        "Matches sycophancy work",
+        "No class-year gate",
+        "Competitive; ProxyClaw evals help"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    },
+    {
+      "id": "opp_mlab_info",
+      "title": "Berkeley club recruiting: XR@Berkeley / late-window clubs",
+      "type": "event",
+      "organization": "Berkeley RSOs",
+      "description": "Fall recruiting wall was Sep 3-15; XR@Berkeley (~Sep 21) is the last open window. ML@B, BASIS and Traders reopen in spring.",
+      "location": "Berkeley, CA",
+      "start_date": "2026-09-21",
+      "deadline": "2026-09-21",
+      "url": "https://berkeleygoggles.org/",
+      "relevance_score": 60,
+      "relevance_reasons": [
+        "Club campaign already tracked daily",
+        "Most target clubs closed; low remaining effort",
+        "BASIS is a warmer research channel"
+      ],
+      "source": "Bright Data (demo cache — from Aditya's trackers)",
+      "is_demo": true
+    }
+  ],
+  "graph": {
+    "id": "graph_demo_aditya",
+    "generated_at": "2026-09-21T09:00:00+00:00",
+    "root_id": "today",
+    "nodes": [
+      {
+        "id": "today",
+        "title": "Today",
+        "description": "Monday, Sep 21, 2026. Aditya's real commitments: hackathon tonight, coursework, four outreach campaigns, Midterm 1 in ~2 weeks.",
+        "category": "present",
+        "time_horizon": "now",
+        "scenario_score": 100.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 1.0,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 1.0,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 1.0,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 1.0,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 1.0,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 1.0,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 1.0,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.0,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.0,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [],
+        "tradeoffs": [],
+        "assumptions": [
+          "Trackers, Downloads and memory notes are up to date",
+          "CS 61A meets MWF 10-11 (assumed)"
+        ],
+        "evidence_ids": [
+          "e_cs_courses",
+          "e_three_deadlines",
+          "e_late_nights"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Review the scenario map and pick a path to explore.",
+        "explanation": ""
+      },
+      {
+        "id": "d_hackathon",
+        "title": "Attend the Battle of the Personal Brains hackathon tonight",
+        "description": "16:00-21:00 at Bright Data Web Data Loft, 625 2nd St SF. cognee / AWS Strands / Docker; build the personal-brain agent.",
+        "category": "decision",
+        "time_horizon": "now",
+        "scenario_score": 61.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.95,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.8,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.4,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.9,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.8,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.3,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.7,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Hands-on agent building matches ProxyClaw eval work",
+          "Ships the personal-brain agent (this project)"
+        ],
+        "tradeoffs": [
+          "5 hours the week Linear HW2 and the Renaissance reading are due",
+          "Commute to SF; misses the SPC Waymo fireside"
+        ],
+        "assumptions": [
+          "Hackathon ends at 21:00 as scheduled",
+          "Linear HW2 needs about 4 more hours"
+        ],
+        "evidence_ids": [
+          "e_hackathon",
+          "e_agent_notes",
+          "e_goal_project",
+          "e_spc"
+        ],
+        "opportunity_ids": [
+          "opp_calhacks",
+          "opp_treehacks"
+        ],
+        "recommended_action": "Go, set a hard stop at 21:00, and block Tue 19:00-22:00 for Linear HW2.",
+        "explanation": ""
+      },
+      {
+        "id": "d_interview",
+        "title": "Prepare for CS 61A Midterm 1",
+        "description": "Study guide and 12 past MT1 exams are downloaded; 0 study hours scheduled. Assumed exam: first week of October.",
+        "category": "decision",
+        "time_horizon": "days",
+        "scenario_score": 55.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.7,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.95,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.1,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.8,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.2,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.55,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Directly protects first-semester grades",
+          "Reduces exam-week uncertainty"
+        ],
+        "tradeoffs": [
+          "Takes time from Linear HW2 and outreach batches"
+        ],
+        "assumptions": [
+          "Midterm 1 is in the first week of October (verify on the course calendar)",
+          "3 focused hours of past exams is enough for a first pass"
+        ],
+        "evidence_ids": [
+          "e_prep_zero",
+          "e_goal_gpa"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Schedule two 90-minute past-exam blocks (fa25 + sp25 MT1) on Tue and Wed.",
+        "explanation": ""
+      },
+      {
+        "id": "d_research",
+        "title": "Send the Berkeley interpretability research cold emails",
+        "description": "20 tiered PhD/postdoc targets (feature fields, RLHF, HypotheSAEs, ICL heads); hook is the NeurIPS sycophancy paper.",
+        "category": "decision",
+        "time_horizon": "weeks",
+        "scenario_score": 67.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.9,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.9,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.55,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.35,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.85,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.95,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.4,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.0,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.5,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Matches interpretability & AI-safety interest",
+          "Concrete step toward a first-year lab position"
+        ],
+        "tradeoffs": [
+          "Each personalized email takes ~20 min",
+          "Competes with coursework this week"
+        ],
+        "assumptions": [
+          "Targets' own sites are current (lab rosters are stale)",
+          "5-6 emails per batch is sustainable"
+        ],
+        "evidence_ids": [
+          "e_research_targets",
+          "e_interp"
+        ],
+        "opportunity_ids": [
+          "opp_chai",
+          "opp_anthropic_fellowship",
+          "opp_simons"
+        ],
+        "recommended_action": "Send the Tier-1 batch Thursday 16:00-18:00; mention the Gemma 2B/9B sycophancy paper in each.",
+        "explanation": ""
+      },
+      {
+        "id": "d_coursework",
+        "title": "Protect time for CS 61A and Linear Algebra",
+        "description": "Reserve fixed blocks for Linear HW2, the Renaissance reading and Midterm 1 prep.",
+        "category": "decision",
+        "time_horizon": "days",
+        "scenario_score": 63.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.55,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.85,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.7,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.7,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.8,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.4,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.7,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.1,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.45,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Keeps first-semester grades on track",
+          "Turns downloaded study material into scheduled work"
+        ],
+        "tradeoffs": [
+          "Less flexibility for SF events this week"
+        ],
+        "assumptions": [
+          "Linear HW2 needs about 4-5 hours",
+          "Renaissance reading takes ~2 hours"
+        ],
+        "evidence_ids": [
+          "e_midweek",
+          "e_prep_zero"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Block Tue 19:00-22:00 (Linear HW2) and Wed 19:00-21:00 (Cox ch.1-2 + MT1 past exam).",
+        "explanation": ""
+      },
+      {
+        "id": "d_continue",
+        "title": "Continue current schedule without changes",
+        "description": "Keep all four outreach campaigns, the hackathon and coursework as they stand.",
+        "category": "decision",
+        "time_horizon": "now",
+        "scenario_score": 56.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.6,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.65,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.6,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.8,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.9,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.3,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.7,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "No new commitments"
+        ],
+        "tradeoffs": [
+          "No protected study time before Midterm 1",
+          "Outreach volume stays at four campaigns"
+        ],
+        "assumptions": [
+          "Current campaign volume continues"
+        ],
+        "evidence_ids": [
+          "e_late_nights",
+          "e_overcommitted"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Consider at least one change from the other branches.",
+        "explanation": ""
+      },
+      {
+        "id": "o_agent_project",
+        "title": "Ship the personal-brain agent (this project)",
+        "description": "Tonight's build becomes a public portfolio piece for lab and internship applications.",
+        "category": "outcome",
+        "time_horizon": "weeks",
+        "scenario_score": 65.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.95,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.85,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.45,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.85,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.1,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.5,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Portfolio piece for internship + research applications",
+          "Agent-eval experience made visible"
+        ],
+        "tradeoffs": [
+          "Needs 2-3 follow-up sessions"
+        ],
+        "assumptions": [
+          "You keep working on the project after the event"
+        ],
+        "evidence_ids": [
+          "e_goal_project",
+          "e_agent_notes"
+        ],
+        "opportunity_ids": [
+          "opp_calhacks",
+          "opp_treehacks"
+        ],
+        "recommended_action": "Push the repo public within a week of the hackathon.",
+        "explanation": ""
+      },
+      {
+        "id": "o_collaborator",
+        "title": "Meet collaborators / mentors from Cognee, AWS, Bright Data",
+        "description": "Sponsor engineers and 400+ builders in the room tonight.",
+        "category": "opportunity",
+        "time_horizon": "weeks",
+        "scenario_score": 59.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.8,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.7,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.6,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.3,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.7,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.8,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.1,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.4,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Team for Cal Hacks 13.0 / TreeHacks",
+          "Warm intros for the startup outreach list"
+        ],
+        "tradeoffs": [
+          "Depends on who attends"
+        ],
+        "assumptions": [
+          "Attendees include sponsor engineers and student builders"
+        ],
+        "evidence_ids": [
+          "e_hackathon",
+          "e_overcommitted"
+        ],
+        "opportunity_ids": [
+          "opp_calhacks",
+          "opp_techweek"
+        ],
+        "recommended_action": "Exchange contacts with one team and one sponsor engineer.",
+        "explanation": ""
+      },
+      {
+        "id": "r_late_night",
+        "title": "Late return the night before a full week",
+        "description": "Back in Berkeley after 22:00 with Linear HW2 and the Renaissance reading untouched.",
+        "category": "risk",
+        "time_horizon": "days",
+        "scenario_score": 43.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.6,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.5,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.6,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.7,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.6,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.75,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [],
+        "tradeoffs": [
+          "Compresses HW2 into Tue-Fri"
+        ],
+        "assumptions": [
+          "Commute back to Berkeley takes about an hour"
+        ],
+        "evidence_ids": [
+          "e_hackathon_before_hw3"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Leave by 21:00 and start Linear HW2 Tuesday evening at the latest.",
+        "explanation": ""
+      },
+      {
+        "id": "o_interview_ready",
+        "title": "Midterm readiness improves",
+        "description": "Structured past-exam practice before Midterm 1 raises confidence.",
+        "category": "outcome",
+        "time_horizon": "days",
+        "scenario_score": 54.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.7,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.9,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.6,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.1,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.7,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.9,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.4,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.3,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.55,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Higher expected Midterm 1 score"
+        ],
+        "tradeoffs": [
+          "Practice time is not free this week"
+        ],
+        "assumptions": [
+          "0 of ~3 planned hours completed so far",
+          "Midterm 1 is in the first week of October"
+        ],
+        "evidence_ids": [
+          "e_prep_zero"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Do one timed past MT1 (fa25) Tuesday evening.",
+        "explanation": ""
+      },
+      {
+        "id": "r_hw3_time",
+        "title": "Less time for Linear HW2 this week",
+        "description": "Midterm prep draws from the same Tue/Wed evenings as HW2.",
+        "category": "risk",
+        "time_horizon": "days",
+        "scenario_score": 40.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.55,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.5,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.4,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.5,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.6,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [],
+        "tradeoffs": [
+          "Could push Linear HW2 close to Friday 23:59"
+        ],
+        "assumptions": [
+          "HW2 needs about 4 hours",
+          "HW2 due Fri 23:59 (assumed)"
+        ],
+        "evidence_ids": [
+          "e_midweek"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Start HW2 before exam practice, not after.",
+        "explanation": ""
+      },
+      {
+        "id": "o_research_lab",
+        "title": "Land a first-year research position",
+        "description": "Cold emails plus CHAI / BASIS / URAP channels open a path into an interp or safety lab.",
+        "category": "opportunity",
+        "time_horizon": "months",
+        "scenario_score": 65.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.95,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.9,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.3,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.7,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.95,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.4,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.0,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.45,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Path into a Berkeley lab",
+          "Aligns with interpretability & AI-safety interest"
+        ],
+        "tradeoffs": [
+          "Long lead time; results in months"
+        ],
+        "assumptions": [
+          "CHAI internship apps open ~Oct-Nov as expected (unverified)"
+        ],
+        "evidence_ids": [
+          "e_research_targets",
+          "e_interp"
+        ],
+        "opportunity_ids": [
+          "opp_chai",
+          "opp_anthropic_fellowship",
+          "opp_goodfire"
+        ],
+        "recommended_action": "Follow up each email after one week; attend the Simons Trustworthy AI workshop.",
+        "explanation": ""
+      },
+      {
+        "id": "r_deadline_pressure",
+        "title": "Outreach volume crowds coursework",
+        "description": "Internships, clubs, 145 startups and 20 research targets all run in parallel with Midterm 1 approaching.",
+        "category": "risk",
+        "time_horizon": "weeks",
+        "scenario_score": 45.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.6,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.6,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.3,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.65,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [],
+        "tradeoffs": [
+          "Stacked October deadlines (CHAI, STEP, Tech Week, Simons)"
+        ],
+        "assumptions": [
+          "All four campaigns are kept active"
+        ],
+        "evidence_ids": [
+          "e_late_nights",
+          "e_three_deadlines"
+        ],
+        "opportunity_ids": [
+          "opp_step",
+          "opp_chai",
+          "opp_techweek"
+        ],
+        "recommended_action": "Stagger: research emails this week, STEP watch next week, CHAI in October.",
+        "explanation": ""
+      },
+      {
+        "id": "o_stable",
+        "title": "Coursework stability",
+        "description": "Fixed blocks keep Linear HW2, the reading and Midterm 1 prep on time.",
+        "category": "outcome",
+        "time_horizon": "weeks",
+        "scenario_score": 81.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.8,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.9,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.9,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.9,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 1.0,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.8,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.8,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.1,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.5,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [
+          "Fewer last-minute submissions",
+          "Midterm 1 prep actually happens"
+        ],
+        "tradeoffs": [
+          "Less room for extra SF events"
+        ],
+        "assumptions": [
+          "Blocked time is actually used for coursework"
+        ],
+        "evidence_ids": [
+          "e_goal_gpa",
+          "e_cs_courses"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Keep the two coursework blocks fixed.",
+        "explanation": ""
+      },
+      {
+        "id": "r_missed_deadline",
+        "title": "Miss a homework or application deadline",
+        "description": "With no changes, Linear HW2, the reading or an application (TechCrunch Sep 22, BCS Sep 25) slips.",
+        "category": "risk",
+        "time_horizon": "days",
+        "scenario_score": 42.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.6,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.5,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.6,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.6,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.7,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [],
+        "tradeoffs": [
+          "A late problem set affects first-semester grades"
+        ],
+        "assumptions": [
+          "No new time blocks are added"
+        ],
+        "evidence_ids": [
+          "e_three_deadlines",
+          "e_midweek"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Add at least one protected coursework block.",
+        "explanation": ""
+      },
+      {
+        "id": "r_burnout",
+        "title": "Rising schedule pressure",
+        "description": "Hackathon + four campaigns + midterm prep in the same two weeks.",
+        "category": "risk",
+        "time_horizon": "weeks",
+        "scenario_score": 42.0,
+        "score_factors": [
+          {
+            "name": "interest_alignment",
+            "value": 0.6,
+            "weight": 0.2,
+            "reason": "How closely this matches your stated interests"
+          },
+          {
+            "name": "goal_alignment",
+            "value": 0.5,
+            "weight": 0.2,
+            "reason": "How directly this advances your fall 2026 goals"
+          },
+          {
+            "name": "available_time",
+            "value": 0.5,
+            "weight": 0.15,
+            "reason": "Free time this week after current commitments"
+          },
+          {
+            "name": "existing_preparation",
+            "value": 0.6,
+            "weight": 0.15,
+            "reason": "Preparation already completed"
+          },
+          {
+            "name": "deadline_feasibility",
+            "value": 0.55,
+            "weight": 0.1,
+            "reason": "Whether the timeline fits your deadlines"
+          },
+          {
+            "name": "opportunity_relevance",
+            "value": 0.5,
+            "weight": 0.1,
+            "reason": "Relevance of related public opportunities"
+          },
+          {
+            "name": "user_commitment",
+            "value": 0.6,
+            "weight": 0.1,
+            "reason": "Commitment you have already shown"
+          },
+          {
+            "name": "schedule_conflict_penalty",
+            "value": 0.5,
+            "weight": -0.1,
+            "reason": "Direct calendar conflicts"
+          },
+          {
+            "name": "workload_penalty",
+            "value": 0.8,
+            "weight": -0.1,
+            "reason": "Added load on an already full week"
+          }
+        ],
+        "positive_effects": [],
+        "tradeoffs": [
+          "Lower output on every goal"
+        ],
+        "assumptions": [
+          "Campaign volume continues unchanged"
+        ],
+        "evidence_ids": [
+          "e_late_nights",
+          "e_overcommitted"
+        ],
+        "opportunity_ids": [],
+        "recommended_action": "Pause one campaign (clubs are mostly closed) until after Midterm 1.",
+        "explanation": ""
+      }
+    ],
+    "edges": [
+      {
+        "id": "e1",
+        "source": "today",
+        "target": "d_hackathon",
+        "label": "decide",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e2",
+        "source": "today",
+        "target": "d_interview",
+        "label": "decide",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e3",
+        "source": "today",
+        "target": "d_research",
+        "label": "decide",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e4",
+        "source": "today",
+        "target": "d_coursework",
+        "label": "decide",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e5",
+        "source": "today",
+        "target": "d_continue",
+        "label": "decide",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e6",
+        "source": "d_hackathon",
+        "target": "o_agent_project",
+        "label": "builds",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e7",
+        "source": "d_hackathon",
+        "target": "o_collaborator",
+        "label": "may lead to",
+        "kind": "enables"
+      },
+      {
+        "id": "e8",
+        "source": "d_hackathon",
+        "target": "r_late_night",
+        "label": "risks",
+        "kind": "risks"
+      },
+      {
+        "id": "e9",
+        "source": "d_interview",
+        "target": "o_interview_ready",
+        "label": "improves",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e10",
+        "source": "d_interview",
+        "target": "r_hw3_time",
+        "label": "risks",
+        "kind": "risks"
+      },
+      {
+        "id": "e11",
+        "source": "d_research",
+        "target": "o_research_lab",
+        "label": "opens",
+        "kind": "enables"
+      },
+      {
+        "id": "e12",
+        "source": "d_research",
+        "target": "r_deadline_pressure",
+        "label": "risks",
+        "kind": "risks"
+      },
+      {
+        "id": "e13",
+        "source": "d_coursework",
+        "target": "o_stable",
+        "label": "leads to",
+        "kind": "leads_to"
+      },
+      {
+        "id": "e14",
+        "source": "d_continue",
+        "target": "r_missed_deadline",
+        "label": "risks",
+        "kind": "risks"
+      },
+      {
+        "id": "e15",
+        "source": "d_continue",
+        "target": "r_burnout",
+        "label": "risks",
+        "kind": "risks"
+      }
+    ],
+    "schedule_pressure": "Medium",
+    "assumptions": [
+      "Trackers, Downloads and memory notes reflect this week accurately",
+      "CS 61A lectures MWF 10-11 and Midterm 1 in the first week of October are assumptions — verify on the course calendar",
+      "Linear HW2 due Fri 23:59 is an assumption",
+      "Scores are estimates, not predictions"
+    ]
+  }
+}
